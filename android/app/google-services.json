@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679512561189",
+    "project_id": "cartcove-2fee8",
+    "storage_bucket": "cartcove-2fee8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679512561189:android:e7023717b3f921b67611cc",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrZC6ZDHuh1_EqjSxFecj3_MsPtcxw4_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
